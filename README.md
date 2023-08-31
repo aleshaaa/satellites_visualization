@@ -1,5 +1,3 @@
-Abstract
-
 The program has been designed to visualization position of NOAA meteorological satellites.
 As a hardware platform was chosen the Raspberry Pi (Pi Zero), cheap minicomputer with relatively
 large possibilities. The programming language chosen for the project is Python. The program
